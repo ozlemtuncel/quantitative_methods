@@ -2,10 +2,6 @@
 layout: default
 ---
 
----
-layout: default
----
-
 ### About
 
 I am now a second-year PhD student at [UMSI](https://www.si.umich.edu/), where I am co-advised by Prof.[Misha Teplitskiy](https://www.misha.mx/) and Prof.[David Jurgens](https://jurgens.people.si.umich.edu/). 
