@@ -1,18 +1,13 @@
+# Data Science Portfolio
 ---
-layout: default
----
+## EDA CASE Study
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Banking Risk Analytics EDA Case Study
 
-[Link to another page](./another-page.html).
+This case study aimed at applying Exploratory Data Analysis (EDA) techniques to a real business scenario in the banking and financial services sector. The objective is to develop a fundamental understanding of risk analytics and how data can be leveraged to minimize financial risks associated with lending to customers.
 
-There should be whitespace between paragraphs.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/Banking_Risk_Analytics_EDA)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
