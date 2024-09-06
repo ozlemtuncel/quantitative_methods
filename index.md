@@ -43,7 +43,7 @@ At the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide, causing a g
 
 
 ## Selected graphics from science communication projects and PH.D. thesis project
-The following graphics was created for Natural selections, a newspaper at The Rockefeller university
+The following graphics was created for Natural Selections, a newspaper at The Rockefeller university.
 <p align="center">
         <img src="assets/img/alumina_infographic_git.png"> 
  </p>
@@ -58,10 +58,10 @@ Fly icons and blueprints for a behavior chamber designed for my thesis project.
 
 
 <p align="center">
-  <img src="assets/img/male_and_female_fly.png" width = "350">
+  <img src="assets/img/male_and_female_fly.png" width = "100">
   </p>
 <p align="center">
-  <img src="assets/img/behavior_chamber.png" width = "350"> 
+  <img src="assets/img/behavior_chamber.png" width = "100"> 
 </p>
 
 Below, I plotted the spike rate of a neuron recorded with single sensillum electrophysiology over time. Neurons spike in response to external stimuli, and the spike rate can be recorded using electrophysiology. Each trace shows the spiking activity of a single fly neuron. The bold colored line is the average of all traces. 
