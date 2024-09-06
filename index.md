@@ -42,7 +42,7 @@ At the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide, causing a g
 ---
 
 
-## Selected graphics from science communication projects and  PH.D. thesis project
+## Selected graphics from science communication projects and PH.D. thesis project
 The following graphics was created for Natural selections, a newspaper at The Rockefeller university
 <p align="center">
         <img src="assets/img/alumina_infographic_git.png"> 
