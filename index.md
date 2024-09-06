@@ -41,7 +41,14 @@ At the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide, causing a g
  </p>
 ---
 
-## Selected graphics from PH.D. thesis project
+
+## Selected graphics from science communication projects and  PH.D. thesis project
+The following graphics was created for Natural selections, a newspaper at The Rockefeller university
+<p align="center">
+        <img src="assets/img/alumina_infographic_git.png"> 
+ </p>
+
+
 For the following graphics, I present the expression (TPM) of 15 genes of interest that were significantly differentially expressed in my RNA-sequencing analysis. For the analysis, I compared the expression rate (how often a gene is transcribed) of different genes between four fly species. 
 <p align="center">
         <img src="assets/img/figure_1.jpeg"> 
