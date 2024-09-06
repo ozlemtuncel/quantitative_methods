@@ -47,7 +47,14 @@ The following graphics was created for Natural Selections, a newspaper at The Ro
 <p align="center">
         <img src="assets/img/alumina_infographic_git.png"> 
  </p>
+The web app that I made at the Electorial Innovation Lab showing competitive races using Mapbox GL js:
 
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="assets/img/EIL_app.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 For the following graphics, I present the expression (TPM) of 15 genes of interest that were significantly differentially expressed in my RNA-sequencing analysis. For the analysis, I compared the expression rate (how often a gene is transcribed) of different genes between four fly species. 
 <p align="center">
