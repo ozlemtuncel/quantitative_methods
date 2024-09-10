@@ -43,9 +43,14 @@ At the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide, causing a g
 
 
 ## Selected graphics from science communication projects and PH.D. thesis project
-The following graphics was created for Natural Selections, a newspaper at The Rockefeller university.
+The following graphic was created for Natural Selections, a newspaper at The Rockefeller university.
 <p align="center">
         <img src="assets/img/alumina_infographic_git.png"> 
+ </p>
+
+ The following graphic was created for the Electoral Innovation Lab, a nonprofit organization focused on data-driven democracy reform:
+<p align="center">
+        <img src="assets/img/plot1_vp_low_github.png"> 
  </p>
 The web app that I made at the Electorial Innovation Lab showing competitive races using Mapbox GL js:
 
