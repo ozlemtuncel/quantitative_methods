@@ -49,15 +49,32 @@ Make sure to check IRB (or equivalent ethics committee) website in your institut
 - 🌐 [How to chose charts](https://www.atlassian.com/data/charts/how-to-choose-data-visualization)
 - 🌐 [Data viz catalogue](https://datavizcatalogue.com/)
 - 🌐 [17 data viz techniques to know](https://online.hbs.edu/blog/post/data-visualization-techniques) by Harvard Business School
+- 🌐 [Descriptive stats in R](https://statsandr.com/blog/descriptive-statistics-in-r/)
+- 📖 [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) chapter from R for Data Science
+- 🌐 [More on EDA](https://cran.r-project.org/web/packages/dlookr/vignettes/EDA.html)
   
-### Measures of Central Tendency
+### Measures of Central Tendency & Dispersion
+- 📖 [Measures of Central Tendency and Dispersion](https://people.ohio.edu/ruhil/statsbook/meansd.html) 
+- 📖 [Mean, median, mode, range](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php)
+- 🌐 [Measures of Central Tendency](https://online.stat.psu.edu/stat200/lesson/2/2.2/2.2.4) by Penn State
 
-### Measures of Dispersion
-
-### Measures of Correlation
-
-### Linear Regression
+### Correlation
+- 🌐 [Pearson, Kendall, and Spearman correlation](https://people.ohio.edu/ruhil/statsbook/meansd.html)
+- 🌐 [Calculating Pearson, Kendall, and Spearman with Python](https://www.turintech.ai/four-methods-to-statistically-measure-your-data-correlation/)
+- 🌐 [Correlation coefficients and interpretation](https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/strength-of-correlation.html)
+- 📖 [From correlation to regression](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression)
 
 ### Null Hypothesis Significance Testing (NHST) with Ordinary Least Squares (OLS)
 
+![OLS is BLUE](docs/blue.png)
+
+- 🌐 [Visual Introduction to Linear Regression](https://mlu-explain.github.io/linear-regression/)
+- 📖 ⭐ [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/) -- one of the best books to read about regression
+- 🌐 [Short intro to linear regression](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
+- 📑 Make sure to read: Gill, Jeff. (1999). The insignificance of null hypothesis significance testing. *Political Research Quarterly*, 52(3), 647-674.
+- 🌐 [OLS with R](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/explainRegression.html)
+
 ### Assumptions of OLS
+- 🌐 [Checking assumptions of OLS with R](https://www.rpubs.com/elliottb90/olsassumptions)
+- 🌐 [Simplified OLS assumptions](https://www.albert.io/blog/key-assumptions-of-ols-econometrics-review/)
+- 🌐 [OLS assumptions with visuals](https://bookdown.org/ripberjt/qrmbook/ols-assumptions-and-simple-regression-diagnostics.html)
