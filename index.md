@@ -9,8 +9,8 @@ layout: default
 ### by [Ozlem Tuncel, PhD](https://ozlemtuncel.github.io/)
 
 ### Slides
-- **[Introduction to Quantitative Analysis](https://docs.google.com/presentation/d/1qmCU4oig1vS0DXPxTBSNr2Jz1pQneqWCnY4L8EZlCXE/edit?usp=drive_link)** by Ozlem Tuncel
-- **[Introduction to Descriptive and Advanced Statistics](https://docs.google.com/presentation/d/12OjPBTab5sZq4_3wNbdO2019eV644BVkMyT5FFvFolE/edit?usp=drive_link)** by Ozlem Tuncel
+- **[Introduction to Quantitative Analysis](https://drive.google.com/file/d/1zhnUq_ob8w_e2OPiGEDe9MCqVfFOSEVe/view?usp=drive_link)** by Ozlem Tuncel
+- **[Introduction to Descriptive and Advanced Statistics](https://drive.google.com/file/d/1P5Mkp6K_SiU01hkQIBvrUOX7i5Sttxyv/view?usp=drive_link)** by Ozlem Tuncel
 
 ### **Content and Resources**
 I have the following resources and games for each topic. I categorize each resource using the following categories:
